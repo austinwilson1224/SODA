@@ -31,3 +31,14 @@ var name = 'Austin';
 var age = 27;
 console.log(name);
 console.log(age);
+
+var num1 = 10;
+var num2 = 20;
+
+console.log(num1+num2);
+
+var c = 3e8; // speed of light in a vacuum in m/s
+var m = 2.5; // mass in kg
+var e = m * (c ** 2); // energy in joules
+
+console.log(e);
